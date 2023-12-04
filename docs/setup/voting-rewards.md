@@ -17,7 +17,7 @@ Voting streaks get reset 12 hours after your previous vote has lost its effect. 
 {% endhint %}
 
 {% hint style="info" %}
-**TIP:** Having trouble remembering to vote? Use the `-vote remind`command to toggle bot DM voting reminders on or off.
+**TIP:** Having trouble remembering to vote? Use the `/vote reminders`command to toggle bot DM voting reminders on or off.
 {% endhint %}
 
 ## Why have my voting rewards decreased?
