@@ -125,7 +125,7 @@ If any part of these TOU is determined by a court of competent jurisdiction to b
 
 These TOU constitute the entire agreement of the parties with respect to the Site and Bot and supersede all prior communications, promises and proposals, whether oral, written, or electronic, between you and PixxieBot, with respect to the Site, the Bot or any goods and services provided by PixxieBot.
 
-If you violate any portion of these TOU, PixxieBot reserves the right, without an obligation to do so, to deny you access to the Site, the Bot, and/or remove any UGC you may have posted/uploaded on the Site. If PixxieBot terminates your access to the Site or theBot, PixxieBot may also delete your Site and Bot profiles. PixxieBot has the right to terminate any PixxieBot profile for any reason.
+If you violate any portion of these TOU, PixxieBot reserves the right, without an obligation to do so, to deny you access to the Site, the Bot, and/or remove any UGC you may have posted/uploaded on the Site. If PixxieBot terminates your access to the Site or the Bot, PixxieBot may also delete your Site and Bot profiles. PixxieBot has the right to terminate any PixxieBot profile for any reason.
 
 PixxieBot's failure to enforce any portion of these TOU is not a waiver of such portion.
 
