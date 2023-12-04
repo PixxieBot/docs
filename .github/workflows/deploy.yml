@@ -32,8 +32,9 @@ jobs:
         with:
           source_token: ${{ secrets.GH_ACCESS_TOKEN }}
           source_repo: PixxieBot/docs
-          source_branch: main
-        
+          source_branch: main/docs
+          git_name: ${{ secrets.GH_GIT_USERNAME }}
+          git_email: ${{ secrets.GH_GIT_EMAIL }}
   on-failure:
   
     runs-on: ubuntu-latest
