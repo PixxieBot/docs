@@ -1,22 +1,16 @@
-name: 'Spellcheck'
-
+name: Spellcheck Action
 on:
   push:
     branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
-
-  workflow_dispatch:
-
 jobs:
-  spellcheck:
+  build:
+    name: Spellcheck
     runs-on: ubuntu-latest
-
     steps:
-      - name: GitHub Spellcheck Action
-        # You may pin to the exact commit or the version.
-        # uses: rojopolis/spellcheck-github-actions@737c1f7be0fa441a9d64a3763f9dcacf20a284d4
-        uses: rojopolis/spellcheck-github-actions@0.35.0
-  
-                
-                
+    - uses: actions/checkout@v3
+    - uses: rojopolis/spellcheck-github-actions@0.35.0
+      name: Spellcheck
+      with:
+        config_path: .github/spellcheck.yml
