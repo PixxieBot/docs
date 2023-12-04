@@ -24,16 +24,13 @@ jobs:
       - name: Checkout 🛎️
         uses: actions/checkout@v3
 
-      - name: Gitbook Action
-        uses: zanderzhao/gitbook-action@v1.2.4
+      - name: action-gitbook-sync-dir
+        uses: mineko-io/action-gitbook-sync-dir@v1.0.11
         with:
           token: ${{ secrets.GH_ACCESS_TOKEN }}
-          time_zone: Europe/Dublin
-          source_repo: PixxieBot/docs
-          source_branch: main
-          source_dir: docs
-          source_edit_time: true
-          publish_commit_message: ${{ github.event.head_commit.message }}  # use last commit message
+          org: PixxieBot
+          space: PixxieBot
+          dir: docs
 
   on-failure:
   
