@@ -13,11 +13,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: md-spellcheck-action
-        uses: matheus23/md-spellcheck-action@v4.2.2
-        with:
-          # Newline-separated globs of files to check
-          files-to-check: ./docs/**
-          # A path to a text file with newline-separated custom words to ignore when checking
-          #words-to-ignore-file: # optional
+      - name: GitHub Spellcheck Action
+        # You may pin to the exact commit or the version.
+        # uses: rojopolis/spellcheck-github-actions@737c1f7be0fa441a9d64a3763f9dcacf20a284d4
+        uses: rojopolis/spellcheck-github-actions@0.35.0
+  
+                
                 
