@@ -17,7 +17,7 @@ jobs:
         uses: matheus23/md-spellcheck-action@v4.2.2
         with:
           # Newline-separated globs of files to check
-          files-to-check: "./docs"
+          files-to-check: ./docs/**
           # A path to a text file with newline-separated custom words to ignore when checking
           #words-to-ignore-file: # optional
                 
