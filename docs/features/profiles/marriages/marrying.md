@@ -2,20 +2,20 @@
 
 ## How to propose to a user
 
-Use the `-marry @mention` command.
+Use the `/marry propose <user>` command.
 
 ## Accepting a marriage proposal
 
-Use `-marry accept @mention` to accept the person's marriage proposal.
+Use `/marry accept <fiancé>` to accept the person's marriage proposal.
 
 ## Canceling a marriage proposal
 
-To cancel a marriage proposal you have made to someone, use `-marry cancel @mention`.
+To cancel a marriage proposal you have made to someone, use `/marry cancel <fiancé>`.
 
 {% hint style="info" %}
-You can see a list of people you're proposed to on your `-profile`.
+You can see a list of people you're proposed to on your `/profile`.
 {% endhint %}
 
 ## Rejecting a marriage proposal
 
-To reject a proposal someone has made to you, do `-marry reject @mention`.
+To reject a proposal someone has made to you, do `/marry decline <user>`.
