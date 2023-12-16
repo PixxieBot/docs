@@ -10,7 +10,7 @@ Use `/marry accept <fiancé>` to accept the person's marriage proposal.
 
 ## Canceling a marriage proposal
 
-To cancel a marriage proposal you have made to someone, use `/marry cancel <fiancé>`.
+To cancel a marriage proposal you have made to someone, use `/marry cancel  `[fiancé]`.
 
 {% hint style="info" %}
 You can see a list of people you're proposed to on your `/profile`.
@@ -18,4 +18,4 @@ You can see a list of people you're proposed to on your `/profile`.
 
 ## Rejecting a marriage proposal
 
-To reject a proposal someone has made to you, do `/marry decline <user>`.
+To reject a proposal someone has made to you, do `/marry decline [<user]`.
