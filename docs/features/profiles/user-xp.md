@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="../../.gitbook/assets/xp.jpg" alt="">
+<img src="../../.gitbook/assets/pixxie_userxp.png" alt="">
 
 </div>
 

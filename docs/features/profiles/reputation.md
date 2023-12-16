@@ -1,6 +1,6 @@
 # Reputation
 
-![](../../.gitbook/assets/rep.jpg)
+![](../../.gitbook/assets/pixxie_reputation.png)
 
 ## How does my reputation get calculated?
 

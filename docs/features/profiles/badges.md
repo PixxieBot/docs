@@ -1,22 +1,22 @@
 # Badges
 
 {% hint style="info" %}
-You can see all your badges by using the `-profile` command.
+You can see all your badges by using the `/profile` command.
 {% endhint %}
 
 ## Common badges
 
 ### <img src="https://discordapp.com/assets/c5f722a37a7e3800b78a61c3ebd2dd74.svg" alt=":date:" data-size="line"> **Daily champ**
 
-> `Be on a 30+ day streak with the -daily command.`
+> `Be on a 30+ day streak with the /daily command.`
 
 ### <img src="https://discordapp.com/assets/e55f552bd0b1cf368b466422408c8401.svg" alt=":heart_eyes:" data-size="line"> **Dedication**
 
-> `Be on a 60+ times voting streak with the -vote command.`
+> `Be on a 60+ times voting streak with the /vote command.`
 
 ### <img src="https://discordapp.com/assets/0483f2b648dcc986d01385062052ae1c.svg" alt=":heart:" data-size="line"> **Patron**
 
-> `Become a patron on Patreon`
+> "Become a [premium member](https://pixx.ie/premium) at PixxieBot"
 
 ### <img src="https://discordapp.com/assets/9a77e13be0f62ffa5f508f3cf50912c2.svg" alt=":santa:" data-size="line"> **Ho ho ho**
 

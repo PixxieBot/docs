@@ -1,6 +1,6 @@
 # Pixos
 
-![](../../.gitbook/assets/pixos.jpg)
+![](../../.gitbook/assets/pixxie_pixxos.png)
 
 ## What are Pixos?
 
