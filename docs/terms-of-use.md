@@ -1,4 +1,4 @@
-# Terms of Use
+# Terms of Use 
 
 Pixxies Design LTD ("us" or "we" or "our") owns and operates the PixxieBot pixx.ie site ("Site") and the PixxieBot Discord Bot ("Bot"). The following Terms of Use (“TOU”) govern your use of the Site and the Bot. Other sites or content owned or controlled by PixxieBot may have their own terms of use and should be reviewed.
 

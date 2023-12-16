@@ -35,6 +35,3 @@ Find more info below.
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}
-
-
-
