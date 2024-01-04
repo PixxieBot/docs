@@ -16,3 +16,13 @@ You can see all your badges by using the `/profile` command.
 |\U0001F41E | Bug hunter | Report a bug to a developer
 |\U0001F60D | Daily champ | Be on a 60+ day voting streak with the vote command.
 |\U0001F5FD | Democracy | Vote for PixxieBot
+
+## Limited Edition Badges
+
+| Badge | Name | Description |
+|-|-|-|
+| \U0001F385 | Ho Ho Ho | Collect your daily Pixos on Christmas day.
+| \U0001FA72 | Panty Hero | Was Available during the coronavirus pandemic. Not available anymore
+| placeholder | Breast Cancer Awareness supporter | Available throughout the month of October.Use the /ribbon command to make a profile picture for Breast Cancer Awareness month.
+| \U0001F308 | Pride Badge | Available throughout the month of June to celebrate Pride Month. Use the /rainbow command to obtain a profile picture for Pride Month and earn yourself a badge on profile.
+| \U0001F427 | ????? | ?????
