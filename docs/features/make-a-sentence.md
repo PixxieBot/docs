@@ -12,7 +12,7 @@ We do not store your sentence history. Once a sentence is complete, it gets publ
 Kicking PixxieBot from your server will also permanently delete all sentence data associated with it.
 {% endhint %}
 
-![This is a live demo of the game in action.](../.gitbook/assets/makeasentence\_demo.gif)
+![This is a live demo of the game in action.](../.gitbook/assets/makeasentence-demo.gif)
 
 ## Setup
 
