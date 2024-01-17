@@ -15,7 +15,6 @@ Posted attachments get default reactions automatically added to them by the bot.
 ## Why use image-lock in a channel?
 
 Image-locking a channel can be useful for:
-
 * Memes channels
 * Photo contests
 * Screenshot verification channels
@@ -33,7 +32,7 @@ This can be any text channel open to your users.
 
 ### 2. Activate image-lock
 
-In the text channel you want to lock, use the `-imagelock on` command to instantly activate the image-lock. From now on, PixxieBot will automatically and instantly delete any messages that don't contain attachments, and auto-react to those which do.&#x20;
+In the text channel you want to lock, use the `/imagelock on` command to instantly activate the image-lock. From now on, PixxieBot will automatically and instantly delete any messages that don't contain attachments, and auto-react to those which do.&#x20;
 
 {% hint style="info" %}
 PixxieBot won't delete any messages sent by users who have `MANAGE_MESSAGES`, `MANAGE_GUILD` or `ADMINISTRATOR` permissions in that channel.&#x20;
@@ -41,8 +40,21 @@ PixxieBot won't delete any messages sent by users who have `MANAGE_MESSAGES`, `M
 
 ## Deactivating image-lock in a channel
 
-To deactivate image-lock and return a channel to its normal state, use `-imagelock off`. PixxieBot will immediately stop deleting chat messages that don't contain attachments and stop auto-reacting to posts.
+To deactivate image-lock and return a channel to its normal state, use `/imagelock off`. PixxieBot will immediately stop deleting chat messages that don't contain attachments and stop auto-reacting to posts.
 
 {% hint style="info" %}
 Image-locked channels are stored in our database via channel ID. This means you can rename your channel all you want and the image-lock will continue to work. Deleting an image-locked channel or deactivating image-lock will remove the channel's ID from our database.
 {% endhint %}
+
+{% hint style="info" %}
+[Premium](https://pixx.ie/premium) servers have access to custom templates for Imagelock!
+{% endhint %}
+
+## How to use PixxieBot to create a custom template for image-lock
+
+In any text channel, use the `/imagelock custom create <name> <emojis>` command, in the `name` parameter, enter the name of the custom template you want to set as. In the `emojis` parameter, input the emojis which are present in the server or default emojis. 
+
+## How to enable custom image-lock template in a channel
+
+In the text channel you want to lock, use the `/imagelock on [custom]` command, enter the custom name in `[custom]`. From now on, PixxieBot will automatically and instantly delete any messages that don't contain attachments, and auto-react to those which do.&#x20;
+ 
