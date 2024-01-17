@@ -26,8 +26,6 @@ Before you start, there are a few requirements:
 
 ### 2. Setting up the Make A Sentence game
 
-![This is a live demo of the explanation below.](../.gitbook/assets/makeasentence\_setup.gif)
-
 1. Run the `/makeasentence setup` command in any channel where PixxieBot has permissions.
 2. PixxieBot will ask for the arguments `writing` & `finished`.
 3. Mention the channel you want users to form the sentce in `writing` and Mention the channel where you want PixxieBot to post finished sentences in `finished`
