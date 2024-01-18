@@ -7,7 +7,7 @@ Truth or Dare is a classic party-game where you choose to tell a  truth or take 
 ## How to play
 You and your friends take turns running the `/truthordare` command, and choosing either a `truth` or a `dare`. 
 
-You can optionally include your choice while entering the command `/truthordare choice:truth/dare`, or have Pixxiebot tag another user to whom you want to direct it. `/truthordare choice:truth/dare user:<mention>
+You can optionally include your choice while entering the command `/truthordare choice:truth/dare`, or have PixxieBot tag another user to whom you want to direct it. `/truthordare choice:truth/dare user:<mention>
 
 ## Truth
 

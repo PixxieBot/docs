@@ -40,3 +40,4 @@ PixxieBot
 dropdown
 hangrygames
 dropdown
+truthordare
