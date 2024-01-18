@@ -28,13 +28,13 @@ Before you start, there are a few requirements:
 
 1. Run the `/makeasentence setup` command in any channel where PixxieBot has permissions.
 2. PixxieBot will ask for the arguments `writing` & `finished`.
-3. Mention the channel you want users to form the sentce in `writing` and Mention the channel where you want PixxieBot to post finished sentences in `finished`
+3. Mention the channel you want users to form the sentence in `writing` and Mention the channel where you want PixxieBot to post finished sentences in `finished`
 4. The setup is complete. PixxieBot will post a confirmation message in the setup channel with the links to the two channels you chose. PixxieBot will also post explainers for your members in each channel.&#x20;
 
 
 ## Deleting or editing words
 
-You can delete a word or edit it, PixxieBot will post an embed showing the updated current sentece. 
+You can delete a word or edit it, PixxieBot will post an embed showing the updated current sentence. 
 
 ## Changing channels
 
