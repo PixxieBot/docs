@@ -8,20 +8,24 @@ Sign up to a game with your friends, volunteer as a tribute, and sit back and wa
 
 May the odds be ever in your flavor! 
 
-## How to play?
+## How to start a game?
 
-
-placeholder
-
+Use `/hangrygames new` command in the channel you want to start the game, an embed will be posted for the users to join 
 
 {% hint style="info" %}
-Info about burger master role 
+Want to allow others to manage all Hangry Games in your server but don't want to give them moderator permissions? Make a role called burger master and assign them.
 {% endhint %}
 
 
-## about hangrygames custom role
+## How to join?
+
+Click on the Join button on the embed displayed and wait for the fun to begin!
 
 
-{% hint style="info" %}
-placeholder, info about it's a premium feature
+## Hangrygames custom role
+
+Use the command `/hangrygames role [role]` to start a game instantly including all the users in the role!
+
+{% hint style="warning" %}
+This is a premium feature, check out premium [here](https://pixx.ie)
 {% endhint %}
