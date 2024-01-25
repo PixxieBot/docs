@@ -16,11 +16,15 @@ Use `/hangrygames new` command in the channel you want to start the game, an emb
 Want to allow others to manage all Hangry Games in your server but don't want to give them moderator permissions? Make a role called burger master and assign them.
 {% endhint %}
 
-
 ## How to join?
 
 Click on the Join button on the embed displayed and wait for the fun to begin!
 
+<div align="left">
+
+<img src="../.gitbook/assets/hangrygames-begin.png" alt="">
+
+</div>
 
 ## Hangrygames custom role
 
