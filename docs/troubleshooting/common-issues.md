@@ -1,13 +1,5 @@
 # Common issues
 
-## The bot is not online and working in other servers but is non-responsive in my server.
-
-Check you're using the correct prefix to call commands. You can read more about prefix configuration below. If you're still having trouble after following that guide, please contact us in [our support server](https://pixx.ie/support).
-
-{% content-ref url="../setup/setting-up-the-bot/bot-prefix.md" %}
-[bot-prefix.md](../setup/setting-up-the-bot/bot-prefix.md)
-{% endcontent-ref %}
-
 ## The bot is offline.
 
 This rarely happens but when it does it's usually for one of these reasons:

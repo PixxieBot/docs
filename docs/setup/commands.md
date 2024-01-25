@@ -4,9 +4,7 @@
 
 A complete list of PixxieBot's commands can be found by using the `/help` command.
 
-The `/help` command is split into categories like so:
-
-![](<../.gitbook/assets/Screenshot 2020-10-05 at 10.44.07.jpg>)
+The `/help` command is split into categories.
 
 ## Browsing command categories
 
