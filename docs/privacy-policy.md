@@ -18,8 +18,8 @@ This policy applies to information we collect:
 
 Via PixxieBot:
 
-* When you interact directly with the bot by running a command (for example: `-daily`).
-* When another member of your guild interacts with PixxieBot while mentioning you (for example: `-ship @mention`).
+* When you interact directly with the bot by running a command (for example: `/daily`).
+* When another member of your guild interacts with PixxieBot while mentioning you (for example: `/ship <user>`).
 * When you send a message in a channel that has been set up for [Make A Sentence](features/make-a-sentence.md) or Guess The Number games
   * For Make A Sentence we store:
     * The channel ID.
@@ -44,14 +44,14 @@ Please read this policy carefully to understand our policies and practices regar
 The information we always collect when you use a PixxieBot command is:
 
 * Your [Discord ID](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-) (for example: `491002268401926145`).
-* Your [Discord tag](https://support.discord.com/hc/en-us/articles/360000270351-Custom-Discord-Tags-with-Nitro) (for example: `Mac#8888`).
-* The name and ID of the server where you run a command (for example: `Name: PixxieBot Community, ID: 675991746856878082`).
-* The command you used including any arguments (for example: `-vote remind`).
+* Your [Discord tag](https://support.discord.com/hc/en-us/articles/360000270351-Custom-Discord-Tags-with-Nitro) (for example: `xtojump`).
+* The name and ID of the server where you run a command (for example: `Name: PixxieBot, ID: 675991746856878082`).
+* The command you used including any arguments (for example: `/vote reminders`).
 * The date and time at which you used the command.
 
 We sometimes also collect:
 
-* User IDs of other users you may have interacted with through a PixxieBot command (for example: `-marry @mention` ).
+* User IDs of other users you may have interacted with through a PixxieBot command (for example: `/marry propose <user>` ).
 
 {% hint style="info" %}
 To respect your server's privacy, we **NEVER** collect any contents of other messages, only PixxieBot commands and interactions with PixxieBot games in dedicated channels chosen by your admins.
