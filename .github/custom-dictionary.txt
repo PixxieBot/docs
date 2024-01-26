@@ -29,7 +29,6 @@ DM
 bish
 Webhook
 Webhooks
-RuPaul's
 dropdown 
 Imagelock
 Hangry
@@ -39,3 +38,8 @@ dropdown
 hangrygames
 dropdown
 truthordare
+Chargebee
+signup
+unvolunteer
+Katniss
+Integrations
