@@ -2,7 +2,6 @@ PixxieBot
 PixxieBot's
 XP
 leaderboard
-Patreon
 https
 ie
 pixx
@@ -36,7 +35,6 @@ Imagelock
 Hangry
 fiancé
 pixos
-PixxieBot
 dropdown
 hangrygames
 dropdown
