@@ -2,16 +2,14 @@
 
 ## About PixxieBot
 
-PixxieBot is a fun and factual Discord bot.&#x20;
-
-**Features:** Truth Or Dare games, hunger games simulator, ship and marriage bot alternative, roasts, pickups, nickname generator, gambling, GIF reactions...
+PixxieBot is a fun and factual Discord bot.
 
 ## Inviting the bot
 
 To invite the bot [click here](https://pixx.ie/invite) or go to [https://pixx.ie/invite](https://pixx.ie/invite).
 
 {% hint style="info" %}
-You can also invite the bot by using the `-invite` command.
+You can also invite the bot by using the `/invite` command.
 {% endhint %}
 
 ## Joining the support server
