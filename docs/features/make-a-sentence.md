@@ -20,21 +20,20 @@ Kicking PixxieBot from your server will also permanently delete all sentence dat
 
 Before you start, there are a few requirements:
 
-* Create a dedicated channel where your members will write their sentences. This channel cannot be used for anything else. You can name the channel whatever you want.
-* Decide where you want the finished sentences to be published. This can be anywhere (some common choices are in general chat, or in another dedicated channel so they can all be found again easily, or in the sentence-writing channel itself).
-* Check PixxieBot [has the correct permissions](../setup/setting-up-the-bot/granting-permissions.md#required-text-channel-permissions) in those channels.
+- Create a dedicated channel where your members will write their sentences. This channel cannot be used for anything else. You can name the channel whatever you want.
+- Decide where you want the finished sentences to be published. This can be anywhere (some common choices are in general chat, or in another dedicated channel so they can all be found again easily, or in the sentence-writing channel itself).
+- Check PixxieBot [has the correct permissions](../setup/setting-up-the-bot/granting-permissions.md#required-text-channel-permissions) in those channels.
 
 ### 2. Setting up the Make A Sentence game
 
 1. Run the `/makeasentence setup` command in any channel where PixxieBot has permissions.
-2. PixxieBot will ask for the arguments `writing` & `finished`.
+2. PixxieBot will ask for the options `writing` & `finished`.
 3. Mention the channel you want users to form the sentence in `writing` and Mention the channel where you want PixxieBot to post finished sentences in `finished`
-4. The setup is complete. PixxieBot will post a confirmation message in the setup channel with the links to the two channels you chose. PixxieBot will also post explainers for your members in each channel.&#x20;
-
+4. The setup is complete. PixxieBot will post a confirmation message in the setup channel with the links to the two channels you chose. PixxieBot will also post explainers for your members in each channel.
 
 ## Deleting or editing words
 
-You can delete a word or edit it, PixxieBot will post an embed showing the updated current sentence. 
+You can delete a word or edit it, PixxieBot will post an embed showing the updated current sentence.
 
 ## Changing channels
 
@@ -46,18 +45,18 @@ No data will be lost in this process. Any ongoing sentences will be continued in
 
 ## Removing the Make a Sentence game from your server
 
-If for any reason you would like to permanently remove the Make A Sentence game from your server and wipe all your server's sentence data from our database, use `/makeasentence delete`.&#x20;
+If for any reason you would like to permanently remove the Make A Sentence game from your server and wipe all your server's sentence data from our database, use `/makeasentence delete`.
 
 {% hint style="danger" %}
-Running this command will permanently delete the following information from our database:
+Running this command will permanently delete the following information from our sentences database:
 
-* Your server ID.
-* Your writing channel ID
-* Your finished sentences channel ID.
-* Any sentence that's underway in your server.
-* The user ID of the last user to post a word in the writing channel.
-* Your server's total sentence count from our database.
-{% endhint %}
+- Your server ID.
+- Your writing channel ID.
+- Your finished sentences channel ID.
+- Any sentence that's underway in your server.
+- The user ID of the last user to post a word in the writing channel.
+- Your server's total sentence count.
+  {% endhint %}
 
 {% hint style="warning" %}
 Kicking PixxieBot from your server will also permanently delete all sentence data associated with it.
