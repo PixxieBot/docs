@@ -1,10 +1,6 @@
 # User XP
 
-<div align="center">
-
-<img src="../../.gitbook/assets/pixxie_userxp.png" alt="">
-
-</div>
+![](../../.gitbook/assets/pixxie_userxp.png)
 
 ## How is my XP calculated?
 

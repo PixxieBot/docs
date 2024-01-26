@@ -15,7 +15,7 @@ You can see all your badges by using the `/profile` command.
 | \U0001F3F0  | Millionaire | Have over 100,000 pixos.                             |
 | \U0001F41E  | Bug hunter  | Report an unknown bug to a developer.                |
 | \U0001F60D  | Daily champ | Be on a 60+ day voting streak with the vote command. |
-| \U0001F5FD  | Democracy   | [Vote for PixxieBot.](https://pixx.ie/topgg)         |
+| \U0001F5FD  | Democracy   | [Vote for PixxieBot.](https://pixx.ie/vote)          |
 
 ## Limited Edition Badges
 
