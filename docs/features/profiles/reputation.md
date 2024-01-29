@@ -1,9 +1,9 @@
 # Reputation
 
-![](../../.gitbook/assets/rep.jpg)
+![](../../.gitbook/assets/pixxie_reputation.png)
 
 ## How does my reputation get calculated?
 
-Unlock new reputation levels by [supporting PixxieBot on Patreon](https://patreon.com/pixxiebot).
+Unlock new reputation levels by [joining PixxieBot Premium](https://pixx.ie/premium).
 
-Yep. PixxieBot is a basic bish like that.
+Yep. You pay and she loves you. PixxieBot is a basic bish like that.

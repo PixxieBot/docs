@@ -2,7 +2,6 @@ PixxieBot
 PixxieBot's
 XP
 leaderboard
-Patreon
 https
 ie
 pixx
@@ -30,5 +29,17 @@ DM
 bish
 Webhook
 Webhooks
-RuPaul's
+dropdown 
+Imagelock
+Hangry
+fiancé
+pixos
 dropdown
+hangrygames
+dropdown
+truthordare
+Chargebee
+signup
+unvolunteer
+Katniss
+Integrations

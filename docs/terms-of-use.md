@@ -1,4 +1,4 @@
-# Terms of Use 
+# Terms of Use
 
 Pixxies Design LTD ("us" or "we" or "our") owns and operates the PixxieBot pixx.ie site ("Site") and the PixxieBot Discord Bot ("Bot"). The following Terms of Use (“TOU”) govern your use of the Site and the Bot. Other sites or content owned or controlled by PixxieBot may have their own terms of use and should be reviewed.
 
@@ -6,7 +6,7 @@ PixxieBot may also offer promotions, contests, services, or features that have t
 
 Using PixxieBot is at-will and can be terminated at any time by either us or you for any reason. By using PixxieBot, you agree to be bound by these TOU. If you do not agree to be so bound, you are not authorised to use the Site or the Bot. These TOU are a legal contract between you and PixxieBot and govern your access to and use of the Bot.
 
-PixxieBot is not affiliated with [Discord](https://discordapp.com/), Cancer Research UK, NASA, RuPaul's Drag Race, WHO, Star Wars, or any other entities we support or list in our services unless otherwise stated.
+PixxieBot is not affiliated with [Discord](https://discord.com/), Cancer Research UK, NASA, Star Wars, or any other entities we support or mention in our services unless otherwise stated.
 
 ### PIXXIEBOT
 
@@ -26,13 +26,9 @@ PixxieBot does not warrant or guarantee the accuracy, completeness, timeliness, 
 
 ### REFUNDS
 
-PixxieBot does not offer any refunds for Premium subscriptions. If you would like to transfer your Premium subscription to another Discord server please [contact us via Discord](https://pixx.ie/support).
+PixxieBot does not offer any refunds for Premium subscriptions after the first 7 days of contracting a Premium subscription. Upon subscribing, we offer a 7 day money-back guarantee, no questions asked. This 7 day period starts immediately at the time of your first payment, as recorded in our [Chargebee billing software](https://chargebee.com) and confirmed to you via email. Any refund requests made during that 7 day period will be honoured with no exceptions or extra conditions. To request a refund within the 7 days following your first Premium payment, simply reach out to our team through [our support server Discord](https://pixx.ie/support) or via email at [support@pixx.ie](mailto:support@pixx.ie) and provide your Discord account details as well as your refund request. Upon receiving your request we will respond in writing to confirm the cancellation and refund. We will cancel your subscription and issue a refund within 3 business days of receiving your request. Refunds are processed via Stripe and may take up to 7 - 10 business days to appear on your card statement depending on your bank.
 
-### SPONSORSHIPS
-
-PixxieBot does not offer any refunds for Premium subscriptions through Patreon. If you would like to transfer your Premium subscription to another Discord server please [contact us via Discord](https://pixx.ie/support).
-
-You also agree to allow us to distribute messages to your Discord server(s) as we deem necessary, without limitation. This includes the ability to associate a sponsored message (promoting either PixxieBot or a third party) alongside the message. Any attempt to remove or block sponsored messages from your Discord server(s) will result in a temporary or permanent ban of your Discord server(s) from the PixxieBot service at the discretion of PixxieBot.
+If you would like to transfer your Premium subscription to another Discord server, or to another Discord account, there's no need to cancel. Please [contact us via Discord](https://pixx.ie/support).
 
 ### TERMS OF USE CHANGES
 
@@ -62,17 +58,17 @@ The display of the links are not meant to imply that PixxieBot guarantees, appro
 
 In connection with your access and/or use of the Site or any Site services, you agree not to:
 
-* Violate any international, federal, state, or local laws or regulations.
-* Violate Discord's [Terms of Service](https://discord.com/terms).
-* Upload/post anything that imposes an unreasonable or disproportionately large strain on PixxieBot's network or computer infrastructure.
-* Engage in any behaviour that is designed to hack into or gain unauthorised access to protected areas of the Site and/or PixxieBot's computers, servers or networks, and/or any computers or systems used by other users of the Site or Bot.
-* Upload/post anything that could destroy, damage, or impair any portion of the Site or Bot or any computers, systems, hardware, or software used by PixxieBot or other users.
-* Make unauthorised attempts to modify any information stored on the Site or in the Bot's data servers.
-* Make attempts to defeat or circumvent security features, or to utilise the Site or Bot for any other purpose other than its intended purposes.
-* Discuss, incite, or promote illegal activity.
-* Upload/post any unsolicited or unauthorised advertising, promotional materials, spam messages, chain letters, pyramid schemes, or any other form of such solicitations.
-* Use any automated technology such as a robot, spider, or scraper to access, scrape, or data mine the Site or within the Bot.
-* Use the Site or Bot to send spam or unsolicited bulk email.
+- Violate any international, federal, state, or local laws or regulations.
+- Violate Discord's [Terms of Service](https://discord.com/terms).
+- Upload/post anything that imposes an unreasonable or disproportionately large strain on PixxieBot's network or computer infrastructure.
+- Engage in any behaviour that is designed to hack into or gain unauthorised access to protected areas of the Site and/or PixxieBot's computers, servers or networks, and/or any computers or systems used by other users of the Site or Bot.
+- Upload/post anything that could destroy, damage, or impair any portion of the Site or Bot or any computers, systems, hardware, or software used by PixxieBot or other users.
+- Make unauthorised attempts to modify any information stored on the Site or in the Bot's data servers.
+- Make attempts to defeat or circumvent security features, or to utilise the Site or Bot for any other purpose other than its intended purposes.
+- Discuss, incite, or promote illegal activity.
+- Upload/post any unsolicited or unauthorised advertising, promotional materials, spam messages, chain letters, pyramid schemes, or any other form of such solicitations.
+- Use any automated technology such as a robot, spider, or scraper to access, scrape, or data mine the Site or within the Bot.
+- Use the Site or Bot to send spam or unsolicited bulk email.
 
 The previous list of prohibitions is not exclusive. PixxieBot reserves the right to terminate your access to the Bot, Site or any Site services for any reason. PixxieBot reserves the right to refuse, delete, or edit any UGC without cause and without notice for any or no reason including, but not limited to, for any action that PixxieBot determines is inappropriate or disruptive to the Bot, Site or to any other users.
 

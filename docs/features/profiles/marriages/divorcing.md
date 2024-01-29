@@ -1,20 +1,16 @@
 # Divorcing
 
+**For your information:** This doesn't notify the person of your divorce.
+
 ## How to divorce a user
 
-There are two ways to divorce a user.
+### Divorcing a user who's no longer in the server or who deleted their Discord account
 
-### 1. Divorce while mentioning
+1. Use the `/divorce` command without adding the user option.
+2. Click the dropdown menu that appears on the command response and select the spouse you would like to divorce.
 
-Use the `-divorce @mention` divorce someone you're married to in a mutual server. This will ping the member you're divorcing.
-
-### 2. Divorce without mentioning
-
-This method doesn't notify the person of your divorce.
-
-1. Use the `-divorce` command to see a list of the people you're married to.
-2. From the list, pick the number of the person you want to divorce, then do `-divorce number` for example, if I want to divorce the second person on my list, I would use `-divorce 2`.
+### Quickly divorcing someone who's in the server
 
 {% hint style="info" %}
-This second method is especially useful if the person you want to divorce no longer shares any mutual servers with you or has deleted their account.
+You can use `/divorce <spouse>` and mention one of the users you're married to.
 {% endhint %}
