@@ -27,6 +27,6 @@ You can see all your badges by using the `/profile` command.
 | ![](../../.gitbook/assets/pixxie_bcancerawareness.png) | Breast Cancer Awareness supporter | Available throughout the month of October. Use the `/ribbon` command to make a profile picture for Breast Cancer Awareness month and earn a badge on your profile.        |
 | 🌈  | Pride Badge | Available throughout the month of June to celebrate Pride Month. Use the `/rainbow` command to obtain a profile picture for Pride Month and earn a badge on your profile. |
 | ![](../../.gitbook/assets/pixxie_3rdbirthday.png)   | Event winner! | Prize winner at our 3rd birthday Bonanza Extravaganza |
-| ![](../../.gitbook/assets/pixxie_hangryxmas.png) | seasonal winner | Won a hangry game during christmas |
+| ![](../../.gitbook/assets/pixxie_hangryxmas.png) | seasonal winner | Won a Hangry game during Christmas |
 | 👨‍❤️‍💋‍👨 | ??????????? | ????????????????????? | 
 | 🐧 | ??????????? | ????????????????????? |
