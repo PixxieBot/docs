@@ -23,3 +23,11 @@ jobs:
       with:
         config_path: .github/spellcheck.yml
         output_file: spellcheck-output.txt
+  prettier:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: creyD/prettier_action@v4.3
+      name: Prettier Action
+      with:
+        dry: true
+        only_changed: true
