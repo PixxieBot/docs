@@ -32,9 +32,9 @@ You can see all your badges by using the `/profile` command.
 
 ## Limited Edition Badges
 
-| Badge                                             | Name                | Description                                                           |
-| ------------------------------------------------- | ------------------- | --------------------------------------------------------------------- |
-| 🩲                                                | Panty Hero          | Was Available during the coronavirus pandemic. Not available anymore. |
+| Badge                                         | Name                | Description                                                           |
+| --------------------------------------------- | ------------------- | --------------------------------------------------------------------- |
+| 🩲                                            | Panty Hero          | Was Available during the coronavirus pandemic. Not available anymore. |
 | ![](../../.gitbook/assets/pixxie_3rdbday.png) | 3rd Birthday Winner | Prize winner at our 3rd Birthday Bonanza Extravaganza.                |
 
 ## Special Badges

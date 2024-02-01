@@ -15,4 +15,3 @@ Upon using the `/help` command, you will be prompted to choose a category. To se
 {% content-ref url="setting-up-the-bot/bot-prefix.md" %}
 [bot-prefix.md](setting-up-the-bot/bot-prefix.md)
 {% endcontent-ref %}
-
