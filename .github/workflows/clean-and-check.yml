@@ -31,3 +31,4 @@ jobs:
       with:
         dry: true
         only_changed: true
+        prettier_options: --read **/*.md
