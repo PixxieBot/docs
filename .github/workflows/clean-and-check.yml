@@ -36,7 +36,7 @@ jobs:
       - name: Prettify code
         uses: creyD/prettier_action@v4.3
         with:
-          prettier_options: --write **/*.md
+          prettier_options: --check **/*.md
           only_changed: True
           # Set your custom token
           github_token: ${{ secrets.GH_ACCESS_TOKEN }}
