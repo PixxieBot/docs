@@ -30,5 +30,4 @@ jobs:
       name: Prettier Action
       with:
         dry: true
-        only_changed: true
-        prettier_options: --check
+        prettier_options: --check **/*.md
