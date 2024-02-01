@@ -42,3 +42,26 @@ You can see all your badges by using the `/profile` command.
 | Badge                                       | Name  | Description                     |
 | ------------------------------------------- | ----- | ------------------------------- |
 | ![](../../.gitbook/assets/pixxie_staff.gif) | Staff | Be a member of PixxieBot Staff. |
+
+<style>
+    tr div:first-child th {
+        width: 90px;
+    }
+    tr div:first-child th div {
+        width: 100% !important;
+    }
+    tr td:first-child span {
+        font-size: 36px;
+    }
+    tr td:first-child {
+        width: 90px;
+    }
+    tr td:first-child div {
+        width: 100% !important;
+        text-align: center;
+    }
+    tr td:first-child div img {
+        width: 36px;
+        margin: 0 auto
+    }
+</style>
