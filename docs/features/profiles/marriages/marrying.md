@@ -10,6 +10,10 @@ Use `/marry accept <fiancé>` to accept the person's marriage proposal.
 
 Use `/marry accept` without the user option to see a dropdown list of all pending marriage proposals you have from all across Discord. Here you can select someone from the list to accept their proposal from afar!
 
+{% hint style="info" %}
+If you've run out of marriage slots, you can unlock more with [PixxieBot Premium](https://pixx.ie/premium)!
+{% endhint %}
+
 ## Canceling a marriage proposal
 
 To cancel a marriage proposal you have made to someone, use `/marry cancel [fiancé]`.
