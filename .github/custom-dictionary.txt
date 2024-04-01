@@ -33,6 +33,7 @@ pixx
 PixxieBot
 PixxieBot's
 Pixxies
+roled
 signup
 SPONSORSHIPS
 th
@@ -46,3 +47,4 @@ VIPixxie
 Webhook
 Webhooks
 XP
+Yagpdb
