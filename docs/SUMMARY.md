@@ -27,6 +27,7 @@
 - [Make A Sentence](features/make-a-sentence.md)
 - [Hangry Games](features/hangry-games.md)
 - [Truth Or Dare](features/truth-or-dare.md)
+- [Nickname](features/nickname.md)
 
 ## Troubleshooting
 
