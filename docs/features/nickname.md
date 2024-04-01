@@ -16,7 +16,7 @@ Server members cannot rename other members:
 - They cannot rename themselves if they don't have the "Change Nickname" permissions on any of their server roles or if PixxieBot's role isn't higher than theirs.
 
 {% hint style="info" %}
-Want to allow your members to rename each other? One way is to set up a nickname role you place above the highest server member role and then make that role self-assignable, either in Discord's [Channels & Roles tab of your server](https://support.discord.com/hc/en-us/articles/10394859532823-Community-Onboarding-Examples) or using a thrid-party role assignment bot like [Yagpdb](https://yagpdb.xyz).
+Want to allow your members to rename each other? One way is to set up a nickname role you place above the highest server member role and then make that role self-assignable, either in Discord's [Channels & Roles tab of your server](https://support.discord.com/hc/en-us/articles/10394859532823-Community-Onboarding-Examples) or using a third-party role assignment bot like [Yagpdb](https://yagpdb.xyz).
 {% endhint %}
 
 PixxieBot also cannot rename:
