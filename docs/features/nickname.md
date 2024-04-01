@@ -8,7 +8,7 @@ Basically, if a server member can't open another member's Discord profile and re
 
 This means that there are some limitations as to who can rename who as outlined below as per Discord's permissions system.
 
-Server members cannot rename other members:
+### Server members cannot rename other members:
 
 - If the member running the command doesn't have the "Manage Nicknames" permissions on any of their server roles.
 - If their highest role is the same or higher than the server member they're trying to rename.
@@ -16,15 +16,16 @@ Server members cannot rename other members:
 - They cannot rename themselves if they don't have the "Change Nickname" permissions on any of their server roles or if PixxieBot's role isn't higher than theirs.
 
 {% hint style="info" %}
-Want to allow your members to rename each other? One way is to set up a nickname role you place above the highest server member role and then make that role self-assignable, either in Discord's [Channels & Roles tab of your server](https://support.discord.com/hc/en-us/articles/10394859532823-Community-Onboarding-Examples) or using a third-party role assignment bot like [Yagpdb](https://yagpdb.xyz).
+**Want to allow your members to rename each other?**
+One way is to set up a nickname role you place above the highest server member role and then make that role self-assignable, either in Discord's [Channels & Roles tab of your server](https://support.discord.com/hc/en-us/articles/10394859532823-Community-Onboarding-Examples) or using a third-party role assignment bot like [Yagpdb](https://yagpdb.xyz).
 {% endhint %}
 
-PixxieBot also cannot rename:
+### PixxieBot also cannot rename:
 
 - Server members whose highest role is higher than PixxieBot's role.
 - Server owners (Discord's permissions system defines the server owner as the highest roled server member).
 
-Server owners cannot be renamed by anyone but themselves as per Discord's permissions system, therefore:
+### Server owners cannot be renamed by anyone but themselves as per Discord's permissions system, therefore:
 
 - They cannot use PixxieBot to rename themselves, but PixxieBot will post a nickname suggestion in a message instead so they can set it manually.
 - Nobody can use PixxieBot to rename the server owner since Discord considers no role higher than server ownership.
