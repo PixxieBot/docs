@@ -4,7 +4,7 @@ The `/nickname` command can be used to make PixxieBot rename a member of your se
 
 In order to determine who can rename who, we follow the permissions you have granted your members as per Discord's permissions system, as set out by the roles you have assigned them. Therefore, PixxieBot will respect whatever nickname management permissions you have set up in your server and cannot be used to circumvent your permissions setup.
 
-Basically, if a server member can't open another member's Discord profile and rename them manually, they will not be able to use PixxieBot to get around that missing permission.
+Basically, if a server member can't open another member's Discord profile and rename them manually then they will not be able to use PixxieBot to get around that missing permission.
 
 This means that there are some limitations as to who can rename who as outlined below as per Discord's permissions system.
 
