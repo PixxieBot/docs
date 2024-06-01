@@ -6,19 +6,22 @@ You can see all your badges by using the `/profile` command.
 
 ## Permanently Available Badges
 
-| Badge | Name                  | Description                                          |
-| ----- | --------------------- | ---------------------------------------------------- |
-| 🎖️    | Fan                   | Have over 500 XP.                                    |
-| 🏅    | Champion              | Have over 1,000 XP.                                  |
-| 🏆    | Leader                | Have over 2,500 XP.                                  |
-| 🦸    | Superhero             | Have over 10,000 XP.                                 |
-| 🏰    | Millionaire           | Have over 100,000 pixos.                             |
-| 🐞    | Bug Hunter            | Report an unknown bug to a developer.                |
-| 😍    | Daily Champ           | Be on a 60+ day voting streak with the vote command. |
-| 🗽    | Democracy             | [Vote for PixxieBot.](https://pixx.ie/vote)          |
-| 💡    | Command Suggester     | Get an idea you suggested implemented on the bot.    |
-| 👨‍❤️‍💋‍👨    | Self-Love             | Mystery Badge!                                       |
-| 🐧    | You're not a penguin! | Mystery Badge!                                       |
+| Badge                                          | Name                  | Description                                          |
+| ---------------------------------------------- | --------------------- | ---------------------------------------------------- |
+| 🎖️                                             | Fan                   | Have over 500 XP.                                    |
+| 🏅                                             | Champion              | Have over 1,000 XP.                                  |
+| 🏆                                             | Leader                | Have over 2,500 XP.                                  |
+| 🦸                                             | Superhero             | Have over 10,000 XP.                                 |
+| 🏰                                             | Millionaire           | Have over 100,000 pixos.                             |
+| ![](../../.gitbook/assets/hella_hangry.webp)   | Hella Hangry          | Win 100 Hangry Games                                 |
+| ![](../../.gitbook/assets/Burger_Head.webp)    | Burger Head           | Win 5,000 Hangry Games                               |
+| ![](../../.gitbook/assets/feastofthedead.webp) | Dinner Dodger         | Win 50 Hangry Games Feasts of the Dead               |
+| 🐞                                             | Bug Hunter            | Report an unknown bug to a developer.                |
+| 😍                                             | Daily Champ           | Be on a 60+ day voting streak with the vote command. |
+| 🗽                                             | Democracy             | [Vote for PixxieBot.](https://pixx.ie/vote)          |
+| 💡                                             | Command Suggester     | Get an idea you suggested implemented on the bot.    |
+| 👨‍❤️‍💋‍👨                                             | Self-Love             | Mystery Badge!                                       |
+| 🐧                                             | You're not a penguin! | Mystery Badge!                                       |
 
 ## Seasonal Badges
 
