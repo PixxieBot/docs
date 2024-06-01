@@ -13,9 +13,9 @@ You can see all your badges by using the `/profile` command.
 | 🏆                                             | Leader                | Have over 2,500 XP.                                  |
 | 🦸                                             | Superhero             | Have over 10,000 XP.                                 |
 | 🏰                                             | Millionaire           | Have over 100,000 pixos.                             |
-| ![](../../.gitbook/assets/hella_hangry.webp)   | Hella Hangry          | Win 100 Hangry Games.                                |
-| ![](../../.gitbook/assets/Burger_Head.webp)    | Burger Head           | Win 5,000 Hangry Games.                              |
-| ![](../../.gitbook/assets/feastofthedead.webp) | Dinner Dodger         | Win 50 Hangry Games Feasts of the Dead.              |
+| ![](../../.gitbook/assets/hella_hangry.png)   | Hella Hangry          | Win 100 Hangry Games.                                |
+| ![](../../.gitbook/assets/Burger_Head.png)    | Burger Head           | Win 5,000 Hangry Games.                              |
+| ![](../../.gitbook/assets/feastofthedead.png) | Dinner Dodger         | Win 50 Hangry Games Feasts of the Dead.              |
 | 🐞                                             | Bug Hunter            | Report an unknown bug to a developer.                |
 | 😍                                             | Daily Champ           | Be on a 60+ day voting streak with the vote command. |
 | 🗽                                             | Democracy             | [Vote for PixxieBot.](https://pixx.ie/vote)          |
