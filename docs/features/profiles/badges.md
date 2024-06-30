@@ -12,7 +12,7 @@ You can see all your badges by using the `/profile` command.
 | 🏅                                             | Champion              | Have over 1,000 XP.                                  |
 | 🏆                                             | Leader                | Have over 2,500 XP.                                  |
 | 🦸                                             | Superhero             | Have over 10,000 XP.                                 |
-| 🏰                                             | Millionaire           | Have over 100,000 pixos.                             |
+| 🏰                                             | Millionaire           | Have over 1,000,000 pixos.                           |
 | ![](../../.gitbook/assets/hella_hangry.png)   | Hella Hangry          | Win 100 Hangry Games.                                |
 | ![](../../.gitbook/assets/Burger_Head.png)    | Burger Head           | Win 5,000 Hangry Games.                              |
 | ![](../../.gitbook/assets/feastofthedead.png) | Dinner Dodger         | Win 50 Hangry Games Feasts of the Dead.              |
