@@ -31,12 +31,13 @@ jobs:
         with:
           fetch-depth: 0
           ref: ${{ github.head_ref }}
-          # Make sure the value of GITHUB_TOKEN will not be persisted in repo's config
           persist-credentials: false
+
+      - name: Install Prettier
+        run: npm install prettier
+
       - name: Prettify code
-        uses: creyD/prettier_action@v4.3
-        with:
-          prettier_options: --check **/*.md
-          only_changed: True
-          # Set your custom token
-          github_token: ${{ secrets.GH_ACCESS_TOKEN }}
+        run: npx prettier --write "**/*.md"
+
+      - name: Check for formatting issues
+        run: npx prettier --check "**/*.md"
