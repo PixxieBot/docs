@@ -1,7 +1,7 @@
 # Table of contents
 
 - [Documentation](README.md)
-- [Invite PixxieBot to your server](https://pixx.ie/invite?ref=docs_sidebar_menu)
+- [Invite PixxieBot to your server](https://pixx.ie/invite?ref=docs_sidebar)
 
 ## Getting started
 
