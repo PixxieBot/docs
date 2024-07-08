@@ -18,7 +18,7 @@ You can see all your badges by using the `/profile` command.
 | ![](../../.gitbook/assets/feastofthedead.png) | Dinner Dodger         | Win 50 Hangry Games Feasts of the Dead.              |
 | 🐞                                             | Bug Hunter            | Report an unknown bug to a developer.                |
 | 😍                                             | Daily Champ           | Be on a 60+ day voting streak with the vote command. |
-| 🗽                                             | Democracy             | [Vote for PixxieBot.](https://pixx.ie/vote)          |
+| 🗽                                             | Democracy             | [Vote for PixxieBot.](https://pixx.ie/vote?source=docs_badges)          |
 | 💡                                             | Command Suggester     | Get an idea you suggested implemented on the bot.    |
 | 👨‍❤️‍💋‍👨                                             | Self-Love             | Mystery Badge!                                       |
 | 🐧                                             | You're not a penguin! | Mystery Badge!                                       |
