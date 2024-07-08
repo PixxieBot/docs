@@ -6,7 +6,7 @@ PixxieBot is a fun and factual Discord bot.
 
 ## Inviting the bot
 
-To invite the bot [click here](https://pixx.ie/invite) or go to [https://pixx.ie/invite](https://pixx.ie/invite).
+To invite the bot [click here](https://pixx.ie/invite?ref=docs_home) or go to [https://pixx.ie/invite](https://pixx.ie/invite?ref=docs_home).
 
 {% hint style="info" %}
 You can also invite the bot by using the `/invite` command.
