@@ -25,7 +25,9 @@
   - [Badges](features/profiles/badges.md)
 - [Image-locked channels](features/image-locked-channels.md)
 - [Make A Sentence](features/make-a-sentence.md)
-- [Hangry Games](features/hangry-games.md)
+- [Hangry Games](features/hangry-games/README.md)
+  - [In-Game Events](features/hangry-games/in-game-events.md)
+  - [Giveaway Mode](features/hangry-games/giveaways.md)
 - [Truth Or Dare](features/truth-or-dare.md)
 - [Nickname](features/nickname.md)
 
