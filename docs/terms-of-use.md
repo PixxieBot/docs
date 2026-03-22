@@ -65,6 +65,8 @@ In connection with your access and/or use of the Site or any Site services, you 
 - Upload/post anything that could destroy, damage, or impair any portion of the Site or Bot or any computers, systems, hardware, or software used by PixxieBot or other users.
 - Make unauthorised attempts to modify any information stored on the Site or in the Bot's data servers.
 - Make attempts to defeat or circumvent security features, or to utilise the Site or Bot for any other purpose other than its intended purposes.
+- Use, create, distribute, or promote any third-party bot, script, service, or tool designed to bypass, circumvent, or otherwise gain unauthorised access to PixxieBot's premium features, voting mechanisms, or any other access-restricted or paid functionality.
+- Exploit, share, or benefit from any method or service that allows you or others to access premium content, voting privileges, or other gated features without proper authorisation or payment.
 - Discuss, incite, or promote illegal activity.
 - Upload/post any unsolicited or unauthorised advertising, promotional materials, spam messages, chain letters, pyramid schemes, or any other form of such solicitations.
 - Use any automated technology such as a robot, spider, or scraper to access, scrape, or data mine the Site or within the Bot.
