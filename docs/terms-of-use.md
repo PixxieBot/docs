@@ -1,6 +1,6 @@
 # Terms of Use
 
-Pixxies Design LTD ("us" or "we" or "our") owns and operates the PixxieBot pixx.ie site ("Site") and the PixxieBot Discord Bot ("Bot"). The following Terms of Use (“TOU”) govern your use of the Site and the Bot. Other sites or content owned or controlled by PixxieBot may have their own terms of use and should be reviewed.
+Pixxies Design LTD ("us" or "we" or "our" or "the Company") owns and operates the PixxieBot pixx.ie site ("Site") and the PixxieBot Discord Bot ("Bot"). The following Terms of Use (“TOU”) govern your use of the Site and the Bot. Other sites or content owned or controlled by PixxieBot may have their own terms of use and should be reviewed.
 
 PixxieBot may also offer promotions, contests, services, or features that have their own terms of use or rules, and to the extent any portion of those special terms conflict with these TOU, the special terms will govern for that specific portion.
 
@@ -10,9 +10,11 @@ PixxieBot is not affiliated with [Discord](https://discord.com/), Cancer Researc
 
 ### PIXXIEBOT
 
+PixxieBot™ is a registered trademark of Pixxies Design LTD by the Intellectual Property Office of Ireland.
+
 The purpose of PixxieBot is to provide Discord channels with fun and factual commands, helping you build activity on your Discord server and create a community.
 
-The information supplied by PixxieBot is provided for entertainment and informational purposes only. You agree that you will only use PixxieBot, or data/information provided by it, for its intended purposes, and not for other commercial ventures without first seeking approval from PixxieBot.
+The information supplied by PixxieBot is provided for entertainment purposes only. You agree that you will only use PixxieBot, or data/information provided by it, for its intended purposes, and not for other commercial ventures without first seeking approval from PixxieBot.
 
 By using PixxieBot, you may need to interact with other users. You are solely responsible for any such interaction and agree to do so in a manner that is legal, respectable, and consistent with these TOU. PixxieBot is not responsible for the conduct of any other user who may interact with you, regardless of whether or not it is done through interactions with the bot by another user or through PixxieBot's own Discord server.
 
@@ -26,9 +28,11 @@ PixxieBot does not warrant or guarantee the accuracy, completeness, timeliness, 
 
 ### REFUNDS
 
-PixxieBot does not offer any refunds for Premium subscriptions after the first 7 days of contracting a Premium subscription. Upon subscribing, we offer a 7 day money-back guarantee, no questions asked. This 7 day period starts immediately at the time of your first payment, as recorded in our [Chargebee billing software](https://chargebee.com) and confirmed to you via email. Any refund requests made during that 7 day period will be honoured with no exceptions or extra conditions. To request a refund within the 7 days following your first Premium payment, simply reach out to our team through [our support server Discord](https://pixx.ie/support) or via email at [support@pixx.ie](mailto:support@pixx.ie) and provide your Discord account details as well as your refund request. Upon receiving your request we will respond in writing to confirm the cancellation and refund. We will cancel your subscription and issue a refund within 3 business days of receiving your request. Refunds are processed via Stripe and may take up to 7 - 10 business days to appear on your card statement depending on your bank.
+PixxieBot does not offer any refunds for Premium subscriptions. Subscribing to PixxieBot Premium gives users instant access to premium services, therefore subscribers waive their rights to a refund in compliance with EU digital content and services law. Upon subscribing, we offer a good-faith 7 day money-back guarantee on demand, no questions asked. This 7 day period starts immediately at the time of your first payment, as recorded in our [Chargebee billing software](https://chargebee.com) and confirmed to you via email. Any refund requests made during that 7 day period will be honoured with no exceptions or extra conditions. To request a refund within the 7 days following your first Premium payment, simply reach out to our team through [our support server Discord](https://pixx.ie/support) or via email at [support@pixx.ie](mailto:support@pixx.ie) and provide your Discord account details as well as your refund request. Upon receiving your request we will respond in writing to confirm the cancellation and refund. We will cancel your subscription and issue a refund within 3 business days of receiving your request. Refunds are processed via Stripe or PayPal depending on the payment method the charge was made to, and may take up to 7 - 10 business days to appear on your card statement depending on your bank.
 
 If you would like to transfer your Premium subscription to another Discord server, or to another Discord account, there's no need to cancel. Please [contact us via Discord](https://pixx.ie/support).
+
+For gift purchases we offer a 14 day withdrawal period in compliance with EU digital content and services law, until the gift is redeemed. Once a gift is redeemed the purchaser waives their right to a refund. If a gift is redeemed after the purchaser opens a refund request and before that request is processed by the Company, the purchase will no longer be eligible for refund. To request a refund within the 14 days following your purchase, simply reach out to our team through [our support server Discord](https://pixx.ie/support) or via email at [support@pixx.ie](mailto:support@pixx.ie) and provide your Discord account details as well as your refund request. Upon receiving your request we will respond in writing to confirm the cancellation and refund. We will revoke and annul the purchased gift and issue a refund within 3 business days of receiving your request. Refunds are processed via Stripe or PayPal depending on the payment method the charge was made to, and may take up to 7 - 10 business days to appear on your card statement depending on your bank.
 
 ### TERMS OF USE CHANGES
 
@@ -107,7 +111,7 @@ GIVEN THAT SOME LOCATIONS DO NOT ALLOW FOR THE EXCLUSION OR LIMITATION OF LIABIL
 
 **GEOGRAPHIC LIMITATION**
 
-PixxieBot operates from its headquarters in Ireland, hosting its web services through a third party provider in France. If you use the Site or the Bot outside Ireland or France, you are responsible for following your applicable local laws and determining, among other things, whether your use of the Site or Bot violates any of those local laws. By using the Site and Bot, you agree and acknowledge that information about you, including personally identifiable information, may be transmitted to and stored Ireland and/or France.
+PixxieBot operates from its headquarters in Ireland, hosting its services through third party providers in the European Union. If you use the Site or the Bot outside Ireland or the European Union, you are responsible for following your applicable local laws and determining, among other things, whether your use of the Site or Bot violates any of those local laws. By using the Site and Bot, you agree and acknowledge that information about you, including personally identifiable information, may be transmitted to and stored in the European Union.
 
 **PRIVACY POLICY**
 
