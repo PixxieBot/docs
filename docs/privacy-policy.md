@@ -12,7 +12,7 @@ We may update this Privacy Policy from time to time. Changes in our Privacy Poli
 
 ### PRIVACY STATEMENT
 
-We respect the privacy of your information. We provide this explanation about our information practices as a show of our commitment to protect your privacy. This policy describes the types of information we may collect from you or that you may provide when using PixxieBot or servers where PixxieBot is present and our practices for collecting, using, maintaining, protecting and disclosing that information.
+We respect the privacy of your information. We provide this explanation about our information practices as a show of our commitment to protect your privacy and in the interests of full transparency. This policy describes the types of information we may collect from you or that you may provide when using PixxieBot or Discord servers where PixxieBot is present and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
 This policy applies to information we collect:
 
@@ -39,7 +39,7 @@ Please read this policy carefully to understand our policies and practices regar
 
 ### THE INFORMATION WE COLLECT AND HOW WE COLLECT IT
 
-**Personally Identifiable Information**. At our website, we only collect personally identifiable information from individuals that they provide to us voluntarily. This means we do not require you to register or provide information to us in order to view our website. Our bot only gathers personally identifiable data through interactions with the bot. This information is necessary to make our game features work and helps us provide a better user experience for all PixxieBot users.
+**Personally Identifiable Information**. At our website, we only collect personally identifiable information from individuals that they provide to us voluntarily. This means we do not require you to register or provide information to us in order to view our website. Our bot only gathers personally identifiable data through interactions with the bot. This information is necessary to make our features work and helps us provide a better user experience for all PixxieBot users.
 
 The information we always collect when you use a PixxieBot command is:
 
@@ -66,12 +66,18 @@ The information we collect when you vote for PixxieBot on third-party website To
 - Your [Discord ID](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-) (for example: `491002268401926145`).
 - The date and time at which you voted for the bot.
 
-Additional information we have access to when you subscribe to PixxieBot Premium is:
+Additional information which you provide to third-party services which we have access to when you subscribe to PixxieBot Premium or purchase a PixxieBot Premium gift is:
 
-- The last 4 digits of your card number.
+- The last 4 digits of your card number OR PayPal email ID depending on your payment method.
 - The email address associated with your Discord account.
 
-This information and all information relevant to your Premium subscription is not stored on our servers and is handled and managed by third-party services [Stripe](https://stripe.com) and [Chargebee](https://chargebee.com).
+This information and all information relevant to Premium is not stored on our servers and is handled and managed by third-party services [Stripe](https://stripe.com) and [Chargebee](https://chargebee.com).
+
+For premium gifts, we store the purchaser's email and the email address of the user who redeems the gift in our database. We encrypt these email addresses and any other personally identifiable information before storing them in our databases.
+
+{% hint style="info" %}
+To protect your identity and your data, we avoid storing personally identifiable information where possible. Personal information we do store is **NEVER** stored in plain text in our databases. Any such information is encrypted at rest using AES-256-GCM encryption before being stored in our database. Encryption keys are stored separately from the encrypted data, behind a separate layer of authentication, on a separate server, via a separate hosting provider in a different country. All data is stored in the European Union.
+{% endhint %}
 
 **Non-Personally Identifiable Information**. Through our website, we may automatically collect certain technical information from your computer such as your Internet service provider, your IP address, your browser type, your operating system, the pages viewed, the pages viewed immediately before and after accessing the website, and the search terms entered to get to our site. This information allows us to improve and customise our services. We and our service providers may collect this information using "[cookies](https://en.wikipedia.org/wiki/HTTP_cookie)" or similar technologies.
 
