@@ -50,3 +50,5 @@ Webhooks
 XP
 Yagpdb
 Hella
+AES
+GCM
